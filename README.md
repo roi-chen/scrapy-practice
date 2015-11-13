@@ -1,0 +1,2 @@
+# scrapy-practice
+init project
